@@ -1,0 +1,17 @@
+UI
+-UI stands for User Interface, it refers to visual appearance of a website or an 
+application. 
+-It focuses on the appearance and design of the application, including layout, 
+colours, fonts, buttons, icons, images, graphics and navigation menus.
+-The primary goal of UI is to make the application appealing, clear and make it
+professional.
+-A good UI should maintain consistency in design elements throughout the application.
+
+
+UX
+-UX stands for User Experience, it refers to the overall experience a user has 
+while interacting with a website or an application.
+- Good UX design ensures simplicity, consistency, efficiency and user satisfaction.
+-The primary goal of UX is to make the application easy to use and efficient.
+-UX focuses on usability, accessibility, navigation and the overall satisfaction of users.
+-Good UX helps users achieve their goals easily and without confusion.
