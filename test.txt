@@ -15,3 +15,29 @@ while interacting with a website or an application.
 -The primary goal of UX is to make the application easy to use and efficient.
 -UX focuses on usability, accessibility, navigation and the overall satisfaction of users.
 -Good UX helps users achieve their goals easily and without confusion.
+
+
+CSS
+-CSS stands for Cascading Style Sheets. It is a stylesheet language used to describe the presentation 
+and appearance of HTML documents.
+-CSS controls the layout, colours, fonts, spacing, borders and backgrounds of web pages.
+-It makes websites visually attractive and user-friendly.
+-CSS can be applied using Inline, Internal and External stylesheets.
+Primary goal is to improve the appearance, layout and presentation of web pages.
+
+
+JS
+-JS stands for Java Script, it is a high-level, interpreted programming language used to make websites dynamic
+ and interactive.
+-It adds functionality and interactivity to web pages.
+-It handles events such as clicks, form submissions and keyboard inputs.
+-It can also communicate with servers using APIs.
+Primary goal is to make websites interactive, dynamic and responsive to user actions.
+
+
+React
+-React is an open-source JavaScript library used for building dynamic and interactive user interfaces, 
+especially for single-page applications.
+-Uses reusable components to build user interfaces.
+-Uses a Virtual DOM to efficiently update the user interface.
+Primary goal is to build fast, reusable, scalable and interactive user interfaces.
